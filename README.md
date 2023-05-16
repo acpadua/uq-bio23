@@ -1,9 +1,9 @@
-# Repository for the 3rd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School
+# Repository for the 3rd Annual Undergraduate Quantitative Biology (UQ-bio) Summer School 2023
 ## Denver, Colorado, USA
 
 Support materials for the tutorial: "Trajectories analysis for videos tracked with idtracker.ai"
 
-<strong>Instrcutor:</strong> Ana Carolina Pádua
+<strong>Instructor:</strong> Ana Carolina Pádua
 ___
 
 ## Tutorial
