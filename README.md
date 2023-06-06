@@ -7,4 +7,4 @@ Support materials for the tutorial: "Trajectories analysis for videos tracked wi
 ___
 
 ## Tutorial
-June 1, 10:15 – 12:15 (UCT-6), Python Tutorial - Image Segmentation and Tracking | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JZBwDbx2lJieukYlboM1Q5Mh9geZQRDa#scrollTo=XAUI86SxHsUm) |
+June 1, 10:15 – 12:15 (UCT-6), Python Tutorial - Image Segmentation and Tracking | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JZBwDbx2lJieukYlboM1Q5Mh9geZQRDa?usp=sharing) |
